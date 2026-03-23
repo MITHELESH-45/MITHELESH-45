@@ -69,7 +69,7 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
-### ⚙️ Backend
+###            ⚙️ Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -84,10 +84,12 @@
 ### 🤖 AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-blue" />
   <img src="https://img.shields.io/badge/LangChain-green" />
   <img src="https://img.shields.io/badge/ChromaDB-purple" />
   <img src="https://img.shields.io/badge/OpenAI-black" />
+  
+  
 </p>
 
 ### 🛠️ Tools
