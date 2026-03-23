@@ -22,7 +22,7 @@
 
 * 🔭 Currently working on: Full-stack applications
 * 🌱 Exploring: **AI technologies & modern backend systems**
-* 🎯 Goal: Become a **top-tier full stack engineer**
+  
 
 ---
 
@@ -65,25 +65,25 @@
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🤖 AI
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/LangChain-green" />
   <img src="https://img.shields.io/badge/ChromaDB-purple" />
@@ -92,11 +92,12 @@
 
 ### 🛠️ Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws" />
 </p>
 
 ---
+
 
 # 📊 GitHub Analytics
 
