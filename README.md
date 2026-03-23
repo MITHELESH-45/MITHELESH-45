@@ -84,13 +84,12 @@
 ### 🤖 AI
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-blue" />
-  <img src="https://img.shields.io/badge/LangChain-green" />
-  <img src="https://img.shields.io/badge/ChromaDB-purple" />
-  <img src="https://img.shields.io/badge/OpenAI-black" />
-  
-  
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" />
 </p>
+
 
 ### 🛠️ Tools
 
