@@ -1,7 +1,7 @@
 # 👋 Hey, I'm MITHELESH K
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+who+debugs+life+like+code+😄;I+build+things+that+work...eventually+😉;Turning+coffee+☕+into+scalable+web+apps+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+who+debugs+life+like+code+😄;I+build+things+that+work...eventually+😉;Crafting+scalable+web+applications+🚀">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue" />
   <img src="https://img.shields.io/badge/Stack-MERN-green" />
-  <img src="https://img.shields.io/badge/Learning-System%20Design-orange" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20Technologies-purple" />
 </p>
 
 ---
@@ -17,11 +17,11 @@
 ## 🧠 About Me
 
 💻 Full Stack Developer passionate about building **scalable and real-world applications**
-⚡ Strong in **backend logic, APIs, and system design**
+⚡ Strong in **backend logic, APIs, and clean architecture**
 🛠️ I build → break → fix → optimize (repeat 😄)
 
 * 🔭 Currently working on: Full-stack applications
-* 🌱 Exploring: System design & backend architecture
+* 🌱 Exploring: **AI technologies & modern backend systems**
 * 🎯 Goal: Become a **top-tier full stack engineer**
 
 ---
@@ -63,8 +63,37 @@
 
 # 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,tailwind,aws,firebase,git,github" />
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🤖 AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/LangChain-green" />
+  <img src="https://img.shields.io/badge/ChromaDB-purple" />
+  <img src="https://img.shields.io/badge/OpenAI-black" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws" />
 </p>
 
 ---
@@ -97,15 +126,19 @@
 # 🏆 Achievements
 
 🥇 Theme Winner — CMR Hackfest 3.0
-🤝 NSS Volunteer
 
 ---
 
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/mitheleshk3005">LinkedIn</a> • 
-  <a href="https://github.com/MITHELESH-45">GitHub</a>
+  <a href="https://linkedin.com/in/mitheleshk3005">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MITHELESH-45">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -118,4 +151,4 @@
 
 ---
 
-⭐️ *"Still debugging life… but the code is getting cleaner."*
+⭐️ *"Still debugging life… but getting better with every commit."*
