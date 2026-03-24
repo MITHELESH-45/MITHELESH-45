@@ -117,13 +117,8 @@
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MITHELESH-45&theme=tokyo-night"/>
-</p>
 
----
 
 # 🏆 Achievements
 
@@ -145,11 +140,7 @@
 
 ---
 
-# 👀 Visitors
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MITHELESH-45&color=blue"/>
-</p>
 
 ---
 
