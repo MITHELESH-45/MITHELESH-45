@@ -28,25 +28,20 @@ My daily development philosophy? **Architect → Build → Break → Optimize �
 
 ---
 
-## 🛠️ Tech Arsenal & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**Frontend Architecture** <br/> 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" alt="Frontend Skills" />
+**Frontend** <br/> <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" alt="Frontend Skills" />
 
-<br/> **Backend & Data Engineering** <br/> 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
+<br/> **Backend & Database** <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
 
-<br/> **AI, Machine Learning & Analytics** <br/> 
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB"/> <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Ragas-7A3EFF?style=for-the-badge" alt="Ragas"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts"/>
+<br/> **AI, Cloud & Integrations** <br/> <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB"/> <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Ragas-7A3EFF?style=for-the-badge" alt="Ragas"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts"/>
 
-<br/> **DevOps, Version Control & Infrastructure** <br/> 
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,vscode" alt="Tools" />
+<br/> **DevOps & Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,vscode" alt="Tools" />
 
 </div>
 
----
 
 ## 🚀 Projects
 
