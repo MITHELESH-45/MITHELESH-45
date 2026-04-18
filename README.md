@@ -2,72 +2,82 @@
 
 <div align="center">
   <a href="https://github.com/MITHELESH-45">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+who+debugs+life+like+code+😄;I+build+things+that+work...eventually+😉;Crafting+scalable+web+applications+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+Full+Stack+Developer+🚀;Architecting+AI+Systems+with+real-world+impact+🤖;Crafting+scalable+web+apps+%26+intelligent+platforms+⚡" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-0052FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-MERN-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Exploring-AI%20Technologies-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Exploring" />
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Full%20Stack-0052FF?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Stack" />
+  <img src="https://img.shields.io/badge/Exploring-Agentic%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Exploring" />
 </div>
 
 <br/>
 
 ## 🧠 About Me
 
-I'm a Full Stack Developer passionate about building **scalable and real-world applications**. I thrive on strong backend logic, building seamless APIs, and maintaining clean architecture. My daily development cycle? **Build → Break → Fix → Optimize → Repeat 😄**
+I am an **Applied AI Engineer and Full Stack Developer** who thrives at the intersection of complex backend architecture and cutting-edge artificial intelligence. I don't just build apps; I engineer scalable, intelligent ecosystems that solve real-world problems.
 
-* 🔭 **Currently working on:** Full-stack applications with modern backend architectures
-* 🌱 **Exploring:** AI technologies, intelligent RAG systems, and modern backend scaling
-* ⚡ **Fun fact:** *Still debugging life… but getting better with every commit. ⭐️*
+My expertise lies in designing seamless user experiences powered by robust REST APIs, advanced Retrieval-Augmented Generation (RAG) pipelines, and autonomous AI agents. 
+
+My daily development philosophy? **Architect → Build → Break → Optimize → Scale 🚀**
+
+* 🔭 **Currently Pioneering:** Production-grade Multi-Agent AI ecosystems and intelligent Customer Experience (CX) platforms.
+* 🌱 **Deep Diving Into:** Agentic AI orchestration, advanced RAG architectures, LLM evaluation pipelines, and high-performance system design.
+* ⚡ **Fun Fact:** *Still debugging life… but my error handling gets better with every commit.* ✨
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal & Tools
 
 <div align="center">
 
-**Frontend** <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="Frontend Skills" />
+**Frontend Architecture** <br/> 
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" alt="Frontend Skills" />
 
-<br/> **Backend & Database** <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Skills" />
+<br/> **Backend & Data Engineering** <br/> 
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
 
-<br/> **AI & Machine Learning** <br/>
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" alt="RAG"/>
+<br/> **AI, Machine Learning & Analytics** <br/> 
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB"/> <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Ragas-7A3EFF?style=for-the-badge" alt="Ragas"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts"/>
 
-<br/> **DevOps & Tools** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,aws" alt="Tools" />
+<br/> **DevOps, Version Control & Infrastructure** <br/> 
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,vscode" alt="Tools" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+### 🤖 [Agentic-CX — AI-Powered Customer Experience Ecosystem](https://github.com/MITHELESH-45)
+
+> *A production-grade, multi-agent AI platform revolutionizing customer support through intelligent routing, semantic retrieval, and autonomous escalation workflows.*
+
+* 🧠 **Multi-Agent Orchestration:** Dynamically intelligently routes complex user queries between RAG-based knowledge retrieval and direct-action workflows.
+* 🔎 **Advanced RAG Pipeline:** Leverages Chroma Cloud, high-dimensional embeddings, and semantic search to generate hyper-accurate, grounded responses from proprietary data.
+* 💬 **Omnichannel Integration:** Features a real-time WhatsApp chatbot interface powered by Twilio for frictionless customer engagement.
+* 📊 **Observability & Analytics:** Engineered a modern, data-rich admin dashboard utilizing Recharts for live ticket monitoring, sentiment analysis, and system insights.
+* 🧪 **LLM Evaluation Layer:** Integrated Ragas to rigorously measure AI faithfulness, answer relevancy, and context precision, ensuring enterprise-grade reliability.
+* ⚙️ **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Chroma Cloud, LangChain, OpenAI, Twilio, Python, Ragas, Render.
 
 ### 🌐 [DevConnect — Developer Networking Platform](https://github.com/MITHELESH-45/devconnect)
-> *A scalable networking space for developers to connect, share, and grow.*
-* 🔐 **Security:** JWT authentication & secure login system
-* 🔗 **Features:** Real-world connection request lifecycle & pagination
-* ⚡ **Architecture:** Scalable REST APIs
-* ☁️ **Deployment:** Hosted on AWS EC2 + Nginx
 
-### 🍱 [FeedFlow — Food Donation Platform](https://github.com/MITHELESH-45/FeedFlow)
-> *Bridging the gap between surplus food and those in need.*
-* 🧑‍🤝‍🧑 **Architecture:** Role-based system tailored for Donors, NGOs, and Volunteers
-* 🔄 **Features:** End-to-end donation lifecycle tracking
-* ☁️ **Integrations:** Cloudinary for media management
-* 🔐 **Security:** Robust authentication & authorization layers
+> *A high-performance social networking space engineered for developers to collaborate, share insights, and scale their careers.*
 
-### 🤖 [GitHub AI Assistant (RAG System)](https://github.com/MITHELESH-45)
-> *An intelligent assistant for context-aware codebase Q&A.*
-* 📂 **Features:** Intelligent repository understanding & semantic search using embeddings
-* 💬 **Capabilities:** Context-aware Q&A directly over codebases
-* ⚙️ **Tech Stack:** Powered by LangChain, ChromaDB, and OpenAI
+* ⚡ **Architecture:** Built on highly scalable, optimized REST APIs for lightning-fast data delivery.
+* 🔐 **Robust Security:** Implemented airtight JWT authentication and secure session management.
+* 🔗 **Core Mechanics:** Engineered a complex, real-world connection request lifecycle with efficient database pagination.
+* ☁️ **Infrastructure:** Successfully deployed and hosted on an AWS EC2 instance powered by Nginx.
+
+### 🍱 [FeedFlow — Food Donation Logistics Platform](https://github.com/MITHELESH-45/FeedFlow)
+
+> *A mission-driven platform bridging the logistical gap between surplus food providers and communities in need.*
+
+* 🧑‍🤝‍🧑 **Dynamic Architecture:** Designed a complex, role-based ecosystem tailored specifically for Donors, NGOs, and delivery Volunteers.
+* 🔄 **Lifecycle Tracking:** Built an end-to-end operational workflow to track donations from source to destination.
+* ☁️ **Cloud Integrations:** Seamlessly integrated Cloudinary for optimized media and asset management.
+* 🔐 **Access Control:** Fortified with rigorous authentication and multi-tiered authorization layers.
 
 ---
 
@@ -86,13 +96,13 @@ I'm a Full Stack Developer passionate about building **scalable and real-world a
 
 ---
 
-## 🏆 Achievements
+## 🏆 Milestones & Achievements
 
 * 🥇 **Theme Winner** — CMR Hackfest 3.0
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Build Something Amazing!
 
 <div align="center">
   <a href="https://linkedin.com/in/mitheleshk3005" target="_blank">
