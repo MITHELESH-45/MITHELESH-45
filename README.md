@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/MITHELESH-45">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer+%7C+Full+Stack+Developer+🚀;Architecting+AI+Systems+with+real-world+impact+🤖;Crafting+scalable+web+apps+%26+intelligent+platforms+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Architecting+AI+Systems+with+real-world+impact+🤖;Crafting+scalable+web+apps+%26+intelligent+platforms+⚡" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I am an **Applied AI Engineer and Full Stack Developer** who thrives at the intersection of complex backend architecture and cutting-edge artificial intelligence. I don't just build apps; I engineer scalable, intelligent ecosystems that solve real-world problems.
+I am a Full Stack Developer** who thrives at the intersection of complex backend architecture and cutting-edge artificial intelligence. I don't just build apps; I engineer scalable, intelligent ecosystems that solve real-world problems.
 
 My expertise lies in designing seamless user experiences powered by robust REST APIs, advanced Retrieval-Augmented Generation (RAG) pipelines, and autonomous AI agents. 
 
