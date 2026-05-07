@@ -1,110 +1,236 @@
-h1 align="center">Hi there, I'm MITHELESH K! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=240&section=header&text=MITHELESH%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h1 align="center">Hey there 👋 I'm MITHELESH K</h1>
+
+<h3 align="center">
+Building scalable AI systems, intelligent full-stack platforms, and impactful developer experiences.
+</h3>
 
 <div align="center">
-  <a href="https://github.com/MITHELESH-45">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+🚀;Architecting+AI+Systems+with+real-world+impact+🤖;Crafting+scalable+web+apps+%26+intelligent+platforms+⚡" alt="Typing SVG" />
-  </a>
+
+![](https://komarev.com/ghpvc/?username=MITHELESH-45&color=blueviolet&style=for-the-badge)
+
+<a href="https://github.com/MITHELESH-45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;Building+AI-Powered+Platforms+🤖;Designing+Scalable+Backend+Systems+⚡;Exploring+Agentic+AI+Architectures+🧠" alt="Typing SVG" />
+</a>
+
 </div>
 
+---
+
+# 🧠 About Me
+
+I’m a Full Stack Developer passionate about engineering scalable systems and intelligent applications that solve real-world problems.
+
+My focus lies at the intersection of:
+
+- ⚡ High-performance backend engineering
+- 🤖 AI-powered application development
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🌐 Scalable full-stack architectures
+- 📊 Intelligent analytics & observability systems
+
+I enjoy building systems that balance:
+
+- Scalability
+- Reliability
+- Developer Experience
+- AI Intelligence
+- Real-world usability
+
+---
+
+# 🚀 Current Focus
+
+```txt
+Architect → Build → Break → Optimize → Scale
+```
+
+- 🤖 Building production-grade Multi-Agent AI systems
+- 🧠 Exploring Agentic AI orchestration workflows
+- 🔍 Developing advanced RAG pipelines & evaluation systems
+- ⚙️ Designing scalable backend architectures
+- ☁️ Deploying full-stack applications with cloud infrastructure
+- 📈 Learning high-performance system design concepts
+
+---
+
+# 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Full%20Stack-0052FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Exploring-Agentic%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Exploring" />
+
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
+
+---
+
+## Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres" />
+
+---
+
+## AI / Cloud / Integrations
+
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ragas-7A3EFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+---
+
+## Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+# 🤖 Agentic-CX — AI-Powered Customer Experience Ecosystem
+
+### 🔹 Overview
+A production-grade multi-agent AI ecosystem designed to automate and optimize customer support workflows through semantic retrieval, intelligent routing, and autonomous escalation systems.
+
+### ⚡ Key Highlights
+
+- 🧠 Engineered intelligent multi-agent orchestration workflows
+- 🔍 Built advanced RAG pipelines using semantic vector search
+- 💬 Integrated real-time WhatsApp communication using Twilio
+- 📊 Developed analytics dashboards with observability insights
+- 🧪 Implemented LLM evaluation pipelines using Ragas
+- ☁️ Designed scalable deployment-ready backend infrastructure
+
+### 🛠️ Stack
+`React` `TailwindCSS` `Node.js` `Express` `MongoDB`
+`LangChain` `OpenAI` `ChromaDB` `Twilio` `Python` `Ragas`
+
+### 🔗 Repository
+👉 https://github.com/MITHELESH-45
+
+---
+
+# 🌐 DevConnect — Developer Networking Platform
+
+### 🔹 Overview
+A scalable developer networking platform enabling developers to connect, collaborate, and build professional communities.
+
+### ⚡ Key Highlights
+
+- ⚡ Built optimized REST APIs for scalable performance
+- 🔐 Implemented secure JWT authentication & authorization
+- 🔗 Engineered real-world connection lifecycle workflows
+- 📄 Added efficient pagination & data management systems
+- ☁️ Deployed infrastructure on AWS EC2 with Nginx
+
+### 🛠️ Stack
+`React` `Node.js` `Express` `MongoDB` `AWS EC2` `Nginx`
+
+### 🔗 Repository
+👉 https://github.com/MITHELESH-45/devconnect
+
+---
+
+# 🍱 FeedFlow — Food Donation Logistics Platform
+
+### 🔹 Overview
+A mission-driven logistics platform connecting food donors, NGOs, and volunteers to reduce food waste and improve food accessibility.
+
+### ⚡ Key Highlights
+
+- 🧑‍🤝‍🧑 Built dynamic multi-role architecture
+- 🔄 Designed end-to-end donation lifecycle tracking
+- ☁️ Integrated Cloudinary media management
+- 🔐 Implemented robust authentication & access control
+
+### 🛠️ Stack
+`React` `Node.js` `MongoDB` `Express` `Cloudinary`
+
+### 🔗 Repository
+👉 https://github.com/MITHELESH-45/FeedFlow
+
+---
+
+# 🏗️ Engineering Philosophy
+
+```txt
+Good systems are not just built.
+They are architected for scale, reliability, adaptability, and long-term evolution.
+```
+
+I love designing systems that:
+- Scale efficiently under load
+- Maintain clean architecture patterns
+- Deliver seamless developer experience
+- Integrate AI meaningfully
+- Solve practical real-world problems
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MITHELESH-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHELESH-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 <br/>
 
-## 🧠 About Me
-
-I am a Full Stack Developer** who thrives at the intersection of complex backend architecture and cutting-edge artificial intelligence. I don't just build apps; I engineer scalable, intelligent ecosystems that solve real-world problems.
-
-My expertise lies in designing seamless user experiences powered by robust REST APIs, advanced Retrieval-Augmented Generation (RAG) pipelines, and autonomous AI agents. 
-
-My daily development philosophy? **Architect → Build → Break → Optimize → Scale 🚀**
-
-* 🔭 **Currently Pioneering:** Production-grade Multi-Agent AI ecosystems and intelligent Customer Experience (CX) platforms.
-* 🌱 **Deep Diving Into:** Agentic AI orchestration, advanced RAG architectures, LLM evaluation pipelines, and high-performance system design.
-* ⚡ **Fun Fact:** *Still debugging life… but my error handling gets better with every commit.* ✨
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-**Frontend** <br/> <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts" alt="Frontend Skills" />
+<img src="https://streak-stats.demolab.com/?user=MITHELESH-45&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<br/> **Backend & Database** <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Skills" />
-
-<br/> **AI, Cloud & Integrations** <br/> <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/ChromaDB-FF4F00?style=for-the-badge" alt="ChromaDB"/> <img src="https://img.shields.io/badge/RAG-0096FF?style=for-the-badge" alt="RAG"/> <img src="https://img.shields.io/badge/Ragas-7A3EFF?style=for-the-badge" alt="Ragas"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/> <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" alt="Recharts"/>
-
-<br/> **DevOps & Tools** <br/> <img src="https://skillicons.dev/icons?i=git,github,postman,aws,docker,vscode" alt="Tools" />
-
-</div>
-
-
-## 🚀 Projects
-
-### 🤖 [Agentic-CX — AI-Powered Customer Experience Ecosystem](https://github.com/MITHELESH-45)
-
-> *A production-grade, multi-agent AI platform revolutionizing customer support through intelligent routing, semantic retrieval, and autonomous escalation workflows.*
-
-* 🧠 **Multi-Agent Orchestration:** Dynamically intelligently routes complex user queries between RAG-based knowledge retrieval and direct-action workflows.
-* 🔎 **Advanced RAG Pipeline:** Leverages Chroma Cloud, high-dimensional embeddings, and semantic search to generate hyper-accurate, grounded responses from proprietary data.
-* 💬 **Omnichannel Integration:** Features a real-time WhatsApp chatbot interface powered by Twilio for frictionless customer engagement.
-* 📊 **Observability & Analytics:** Engineered a modern, data-rich admin dashboard utilizing Recharts for live ticket monitoring, sentiment analysis, and system insights.
-* 🧪 **LLM Evaluation Layer:** Integrated Ragas to rigorously measure AI faithfulness, answer relevancy, and context precision, ensuring enterprise-grade reliability.
-* ⚙️ **Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Chroma Cloud, LangChain, OpenAI, Twilio, Python, Ragas, Render.
-
-### 🌐 [DevConnect — Developer Networking Platform](https://github.com/MITHELESH-45/devconnect)
-
-> *A high-performance social networking space engineered for developers to collaborate, share insights, and scale their careers.*
-
-* ⚡ **Architecture:** Built on highly scalable, optimized REST APIs for lightning-fast data delivery.
-* 🔐 **Robust Security:** Implemented airtight JWT authentication and secure session management.
-* 🔗 **Core Mechanics:** Engineered a complex, real-world connection request lifecycle with efficient database pagination.
-* ☁️ **Infrastructure:** Successfully deployed and hosted on an AWS EC2 instance powered by Nginx.
-
-### 🍱 [FeedFlow — Food Donation Logistics Platform](https://github.com/MITHELESH-45/FeedFlow)
-
-> *A mission-driven platform bridging the logistical gap between surplus food providers and communities in need.*
-
-* 🧑‍🤝‍🧑 **Dynamic Architecture:** Designed a complex, role-based ecosystem tailored specifically for Donors, NGOs, and delivery Volunteers.
-* 🔄 **Lifecycle Tracking:** Built an end-to-end operational workflow to track donations from source to destination.
-* ☁️ **Cloud Integrations:** Seamlessly integrated Cloudinary for optimized media and asset management.
-* 🔐 **Access Control:** Fortified with rigorous authentication and multi-tiered authorization layers.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MITHELESH-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHELESH-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MITHELESH-45&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 Milestones & Achievements
+# 🏆 Achievements
 
-* 🥇 **Theme Winner** — CMR Hackfest 3.0
+- 🥇 Theme Winner — CMR Hackfest 3.0
+- 🚀 Built multiple full-stack and AI-powered platforms
+- 🧠 Continuously exploring scalable AI system architectures
 
 ---
 
-## 🤝 Let's Build Something Amazing!
+# 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://linkedin.com/in/mitheleshk3005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/MITHELESH-45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mitheleshk3005" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MITHELESH-45" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “Building systems that combine intelligence, scalability, and real-world impact.”
+
 </div>
