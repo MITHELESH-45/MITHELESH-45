@@ -1,18 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=240&section=header&text=MITHELESH%20K&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">Hey there 👋 I'm MITHELESH K</h1>
-
-<h3 align="center">
-Building scalable AI systems, intelligent full-stack platforms, and impactful developer experiences.
-</h3>
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=MITHELESH-45&color=blueviolet&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;Agentic+AI+Engineer+🤖;Building+Scalable+Backend+Systems+⚡;RAG+%26+AI+Workflow+Architect+🧠;MERN+Stack+Developer+🌐" alt="Typing SVG" />
 
-<a href="https://github.com/MITHELESH-45">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;Building+AI-Powered+Platforms+🤖;Designing+Scalable+Backend+Systems+⚡;Exploring+Agentic+AI+Architectures+🧠" alt="Typing SVG" />
-</a>
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-8b5cf6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-RAG%20Systems-ec4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-System%20Design-22c55e?style=for-the-badge"/>
 
 </div>
 
@@ -96,6 +94,7 @@ Architect → Build → Break → Optimize → Scale
 # 🤖 Agentic-CX — AI-Powered Customer Experience Ecosystem
 
 ### 🔹 Overview
+
 A production-grade multi-agent AI ecosystem designed to automate and optimize customer support workflows through semantic retrieval, intelligent routing, and autonomous escalation systems.
 
 ### ⚡ Key Highlights
@@ -108,10 +107,12 @@ A production-grade multi-agent AI ecosystem designed to automate and optimize cu
 - ☁️ Designed scalable deployment-ready backend infrastructure
 
 ### 🛠️ Stack
+
 `React` `TailwindCSS` `Node.js` `Express` `MongoDB`
 `LangChain` `OpenAI` `ChromaDB` `Twilio` `Python` `Ragas`
 
 ### 🔗 Repository
+
 👉 https://github.com/MITHELESH-45
 
 ---
@@ -119,6 +120,7 @@ A production-grade multi-agent AI ecosystem designed to automate and optimize cu
 # 🌐 DevConnect — Developer Networking Platform
 
 ### 🔹 Overview
+
 A scalable developer networking platform enabling developers to connect, collaborate, and build professional communities.
 
 ### ⚡ Key Highlights
@@ -130,9 +132,11 @@ A scalable developer networking platform enabling developers to connect, collabo
 - ☁️ Deployed infrastructure on AWS EC2 with Nginx
 
 ### 🛠️ Stack
+
 `React` `Node.js` `Express` `MongoDB` `AWS EC2` `Nginx`
 
 ### 🔗 Repository
+
 👉 https://github.com/MITHELESH-45/devconnect
 
 ---
@@ -140,6 +144,7 @@ A scalable developer networking platform enabling developers to connect, collabo
 # 🍱 FeedFlow — Food Donation Logistics Platform
 
 ### 🔹 Overview
+
 A mission-driven logistics platform connecting food donors, NGOs, and volunteers to reduce food waste and improve food accessibility.
 
 ### ⚡ Key Highlights
@@ -150,9 +155,11 @@ A mission-driven logistics platform connecting food donors, NGOs, and volunteers
 - 🔐 Implemented robust authentication & access control
 
 ### 🛠️ Stack
+
 `React` `Node.js` `MongoDB` `Express` `Cloudinary`
 
 ### 🔗 Repository
+
 👉 https://github.com/MITHELESH-45/FeedFlow
 
 ---
@@ -165,6 +172,7 @@ They are architected for scale, reliability, adaptability, and long-term evoluti
 ```
 
 I love designing systems that:
+
 - Scale efficiently under load
 - Maintain clean architecture patterns
 - Deliver seamless developer experience
@@ -197,17 +205,8 @@ I love designing systems that:
 
 - 🥇 Theme Winner — CMR Hackfest 3.0
 - 🚀 Built multiple full-stack and AI-powered platforms
-- 🧠 Continuously exploring scalable AI system architectures
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
+- 🧠 Exploring scalable AI system architectures
+- ⚡ Passionate about backend engineering & intelligent systems
 
 ---
 
@@ -231,6 +230,6 @@ I love designing systems that:
 
 <div align="center">
 
-### 💡 “Building systems that combine intelligence, scalability, and real-world impact.”
+### 💡 Building systems that combine intelligence, scalability, and real-world impact.
 
 </div>
