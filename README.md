@@ -85,7 +85,7 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 * 💬 **Omnichannel Automation:** Integrated WhatsApp chatbot using Twilio with seamless conversational AI and business workflow execution.
 * 🧪 **LLM Evaluation Layer:** Uses Ragas to measure faithfulness, answer relevancy, context precision, and overall response quality before deployment.
 
-🔗 **Live Link:** agenitc-cx.vercel.app
+ 🔗 **Live Link:** https://agenitc-cx.vercel.app
 
 <br/>
 
@@ -100,9 +100,9 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 * 💻 **Hands-on Learning Platform:** Built an end-to-end ecosystem with no-code programming, coding assessments, progress tracking, authentication, and modular learning architecture for experiential education.
 * 🏆 **Award-Winning Innovation:** Secured **🥇 1st Prize at CMR HackFest** for developing an innovative AI-powered educational platform that bridges theoretical learning with practical experimentation.
 
- 
-🌐 **Live Demo:** https://edtech-9wnc.onrender.com
----
+🔗 **Live Link:** https://edtech-9wnc.onrender.com
+
+
 
 ## 📊 GitHub Analytics
 
