@@ -59,7 +59,7 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 ---
 ## 🚀 Featured Projects
 
-### 🤖 [Jarvis Digital Twin — Production-Ready AI Agent](https://github.com/MITHELESH-45)
+### 🤖 [Jarvis Digital Twin — Production-Ready AI Agent](https://github.com/MITHELESH-45/Jarvis-AI-Powered-Personal-Executive-Agent)
 
 > *My personal AI Digital Twin that understands my portfolio, answers questions about me, and autonomously performs real-world tasks using Agentic AI, Advanced RAG, MCP, Gemini, OpenAI, and Google Workspace integrations.*
 
