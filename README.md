@@ -56,53 +56,88 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 
 </div>
 
----
 ## 🚀 Featured Projects
+
+---
 
 ### 🤖 [Jarvis Digital Twin — Production-Ready AI Agent](https://github.com/MITHELESH-45/Jarvis-AI-Powered-Personal-Executive-Agent)
 
 > *My personal AI Digital Twin that understands my portfolio, answers questions about me, and autonomously performs real-world tasks using Agentic AI, Advanced RAG, MCP, Gemini, OpenAI, and Google Workspace integrations.*
 
-**⚙️ Tech Stack:** React 18  • Node.js • Express • PostgreSQL • Prisma • LangChain • OpenAI • Gemini • Pinecone • MCP
+**⚙️ Tech Stack**
 
-* 🧠 **Agentic Routing:** Uses OpenAI GPT-4o for intelligent intent classification, dynamically routing user queries to the appropriate AI pipeline for knowledge retrieval or action execution.
-* 📚 **Advanced RAG Pipeline:** Built with Gemini, Pinecone, LangChain, hybrid search (Semantic + BM25), dynamic Top-K retrieval, LLM re-ranking, and context expansion for highly grounded responses.
-* ⚡ **MCP Action Framework:** Executes real-world tasks including Google Calendar scheduling, Gmail automation, and productivity workflows through secure MCP tools.
-* 🔐 **Enterprise Architecture:** Google OAuth, RBAC, PostgreSQL, Prisma, modular backend architecture, and production-grade security for protected administrative actions.
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0E9F6E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Agent%20Protocol-FF6B35?style=for-the-badge)
 
-🔗 **Live Link:** https://jarvis-beta-umber.vercel.app
+- 🧠 **Agentic Routing:** Uses OpenAI GPT-4o for intelligent intent classification, dynamically routing user queries to specialized AI pipelines for knowledge retrieval or action execution.
+- 📚 **Advanced RAG Pipeline:** Built with Gemini, Pinecone, LangChain, Hybrid Search (Semantic + BM25), Dynamic Top-K Retrieval, LLM Re-ranking, and Context Expansion for highly grounded responses.
+- ⚡ **MCP Action Framework:** Executes real-world tasks including Google Calendar scheduling, Gmail automation, and productivity workflows through secure MCP tools.
+- 🔐 **Enterprise Architecture:** Google OAuth, RBAC, PostgreSQL, Prisma, modular backend architecture, and production-grade authentication & security.
 
-<br/>
+🌐 **Live Demo:** https://jarvis-beta-umber.vercel.app
+
+<br>
+
+---
 
 ### 💬 [Agentic-CX — AI-Powered Customer Experience Ecosystem](https://github.com/MITHELESH-45/Agenitc-CX)
 
-> *A production-grade, multi-agent AI platform revolutionizing customer support through intelligent routing, semantic retrieval, and autonomous escalation workflows.*
+> *A production-grade, multi-agent AI platform revolutionizing customer support through intelligent routing, semantic retrieval, and autonomous business workflows.*
 
-**⚙️ Tech Stack:** React • Node.js • MongoDB • Chroma Cloud • LangChain • OpenAI • Python • Twilio • Ragas
+**⚙️ Tech Stack**
 
-* 🧠 **Multi-Agent Orchestration:** Intelligently routes customer requests between RAG-powered knowledge retrieval, business workflows, and AI support agents.
-* 🔎 **Semantic Search:** Utilizes Chroma Cloud, LangChain, and vector embeddings to deliver accurate, context-aware responses from proprietary knowledge bases.
-* 💬 **Omnichannel Automation:** Integrated WhatsApp chatbot using Twilio with seamless conversational AI and business workflow execution.
-* 🧪 **LLM Evaluation Layer:** Uses Ragas to measure faithfulness, answer relevancy, context precision, and overall response quality before deployment.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma%20Cloud-6A5ACD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-Evaluation-blue?style=for-the-badge)
 
- 🔗 **Live Link:** https://agenitc-cx.vercel.app
+- 🧠 **Multi-Agent Orchestration:** Intelligently routes customer requests between RAG-powered knowledge retrieval, business workflow execution, and specialized AI support agents.
+- 🔎 **Semantic Search:** Uses Chroma Cloud, LangChain, vector embeddings, and Retrieval-Augmented Generation for highly accurate responses.
+- 💬 **Omnichannel Automation:** Integrated WhatsApp chatbot using Twilio with conversational AI and automated customer workflows.
+- 🧪 **LLM Evaluation Pipeline:** Uses Ragas to evaluate faithfulness, answer relevancy, context precision, and overall response quality before deployment.
 
-<br/>
+🌐 **Live Demo:** https://agenitc-cx.vercel.app
+
+<br>
+
+---
 
 ### 🎓 [EduGroot — AI-Powered Interactive Learning Platform](https://github.com/MITHELESH-45/EduGroot)
 
-> *A production-ready EdTech platform that transforms Electronics, IoT, and Programming education through virtual simulations, AI-assisted learning, coding environments, and personalized career guidance.*
+> *A production-ready EdTech platform transforming Electronics, IoT, and Programming education through virtual simulations, AI-assisted learning, coding environments, and personalized career guidance.*
 
-**⚙️ Tech Stack:** React • TypeScript • Tailwind CSS • Framer Motion • Node.js • Express • MongoDB • OpenAI API • JWT • REST APIs
+**⚙️ Tech Stack**
 
-* 🧪 **Virtual Learning Ecosystem:** Developed an interactive electronics and IoT simulation platform featuring breadboard simulation, Arduino & ESP32 logic, real-time circuit validation, sensors, and virtual laboratories.
-* 🤖 **AI-Powered Learning Assistant:** Integrated an intelligent tutor for concept explanations, programming support, personalized learning guidance, and AI-driven career recommendations.
-* 💻 **Hands-on Learning Platform:** Built an end-to-end ecosystem with no-code programming, coding assessments, progress tracking, authentication, and modular learning architecture for experiential education.
-* 🏆 **Award-Winning Innovation:** Secured **🥇 1st Prize at CMR HackFest** for developing an innovative AI-powered educational platform that bridges theoretical learning with practical experimentation.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
-🔗 **Live Link:** https://edtech-9wnc.onrender.com
+- 🧪 **Virtual Learning Ecosystem:** Built an interactive Electronics & IoT simulation platform with breadboard simulation, Arduino & ESP32 logic, real-time circuit validation, sensors, and virtual labs.
+- 🤖 **AI Learning Assistant:** Integrated AI-powered tutoring for concept explanations, coding guidance, personalized learning, and career recommendations.
+- 💻 **Hands-on Learning Platform:** Developed authentication, progress tracking, coding assessments, no-code programming, and modular learning architecture.
+- 🏆 **Award-Winning Innovation:** Won **🥇 1st Prize at CMR HackFest** for developing an AI-powered educational platform that bridges theoretical learning with practical experimentation.
 
-
+🌐 **Live Demo:** https://edtech-9wnc.onrender.com
 
 ## 📊 GitHub Analytics
 
