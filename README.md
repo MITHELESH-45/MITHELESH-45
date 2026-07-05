@@ -62,7 +62,7 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 
 ### 🤖 [Jarvis Digital Twin — Production-Ready AI Agent](https://github.com/MITHELESH-45)
 
-> *An intelligent AI Digital Twin combining **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and the **Model Context Protocol (MCP)** to provide seamless knowledge retrieval and real-world task execution.*
+> *My personal AI Digital Twin that understands my portfolio, answers questions about me, and autonomously performs real-world tasks using Agentic AI, Advanced RAG, MCP, Gemini, OpenAI, and Google Workspace integrations.*
 
 * 🧠 **Agentic Routing:** Uses OpenAI GPT-4o for intelligent intent classification, dynamically routing user queries to the correct pipeline based on context.
 * 📚 **Advanced RAG Pipeline:** Powered by Gemini and Pinecone, featuring hybrid search (Semantic + Keyword), dynamic Top-K retrieval, LLM re-ranking, and context expansion.
