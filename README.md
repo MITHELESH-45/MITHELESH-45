@@ -57,42 +57,51 @@ My expertise lies in crafting seamless user experiences powered by robust REST A
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🤖 [Jarvis Digital Twin — Production-Ready AI Agent](https://github.com/MITHELESH-45)
 
 > *My personal AI Digital Twin that understands my portfolio, answers questions about me, and autonomously performs real-world tasks using Agentic AI, Advanced RAG, MCP, Gemini, OpenAI, and Google Workspace integrations.*
 
-* 🧠 **Agentic Routing:** Uses OpenAI GPT-4o for intelligent intent classification, dynamically routing user queries to the correct pipeline based on context.
-* 📚 **Advanced RAG Pipeline:** Powered by Gemini and Pinecone, featuring hybrid search (Semantic + Keyword), dynamic Top-K retrieval, LLM re-ranking, and context expansion.
-* ⚡ **MCP & Action Execution:** Seamlessly executes real-world actions like scheduling Google Calendar meetings and sending Gmails via an isolated Action Pipeline.
-* 🔐 **Enterprise Security:** Implemented Google OAuth and Role-Based Access Control (RBAC), restricting administrative MCP tools and calendar blocking to Admin users only.
-* ⚙️ **Core Stack:** React 18, Three.js, Node.js, Express, PostgreSQL, Prisma, LangChain, OpenAI, Gemini, Pinecone, MCP.
+**⚙️ Tech Stack:** React 18  • Node.js • Express • PostgreSQL • Prisma • LangChain • OpenAI • Gemini • Pinecone • MCP
+
+* 🧠 **Agentic Routing:** Uses OpenAI GPT-4o for intelligent intent classification, dynamically routing user queries to the appropriate AI pipeline for knowledge retrieval or action execution.
+* 📚 **Advanced RAG Pipeline:** Built with Gemini, Pinecone, LangChain, hybrid search (Semantic + BM25), dynamic Top-K retrieval, LLM re-ranking, and context expansion for highly grounded responses.
+* ⚡ **MCP Action Framework:** Executes real-world tasks including Google Calendar scheduling, Gmail automation, and productivity workflows through secure MCP tools.
+* 🔐 **Enterprise Architecture:** Google OAuth, RBAC, PostgreSQL, Prisma, modular backend architecture, and production-grade security for protected administrative actions.
+
+🔗 **Live Link:** https://jarvis-beta-umber.vercel.app
 
 <br/>
 
-### 💬 [Agentic-CX — AI-Powered Customer Experience Ecosystem](https://github.com/MITHELESH-45)
+### 💬 [Agentic-CX — AI-Powered Customer Experience Ecosystem](https://github.com/MITHELESH-45/Agenitc-CX)
 
 > *A production-grade, multi-agent AI platform revolutionizing customer support through intelligent routing, semantic retrieval, and autonomous escalation workflows.*
 
-* 🧠 **Multi-Agent Orchestration:** Intelligently routes complex user queries between RAG-based knowledge retrieval and direct-action workflows for frictionless support.
-* 🔎 **Semantic Search:** Leverages Chroma Cloud and high-dimensional embeddings to generate hyper-accurate, grounded responses from proprietary data.
-* 💬 **Omnichannel Integration:** Features a real-time WhatsApp chatbot interface powered by Twilio.
-* 🧪 **LLM Evaluation Layer:** Integrated Ragas to rigorously measure AI faithfulness, answer relevancy, and context precision before pushing responses to production.
-* ⚙️ **Core Stack:** React, Node.js, MongoDB, Chroma Cloud, LangChain, OpenAI, Twilio, Python, Ragas.
+**⚙️ Tech Stack:** React • Node.js • MongoDB • Chroma Cloud • LangChain • OpenAI • Python • Twilio • Ragas
+
+* 🧠 **Multi-Agent Orchestration:** Intelligently routes customer requests between RAG-powered knowledge retrieval, business workflows, and AI support agents.
+* 🔎 **Semantic Search:** Utilizes Chroma Cloud, LangChain, and vector embeddings to deliver accurate, context-aware responses from proprietary knowledge bases.
+* 💬 **Omnichannel Automation:** Integrated WhatsApp chatbot using Twilio with seamless conversational AI and business workflow execution.
+* 🧪 **LLM Evaluation Layer:** Uses Ragas to measure faithfulness, answer relevancy, context precision, and overall response quality before deployment.
+
+🔗 **Live Link:** agenitc-cx.vercel.app
 
 <br/>
 
-### 🍱 [FeedFlow — Food Donation Logistics Platform](https://github.com/MITHELESH-45/FeedFlow)
+### 🎓 [EduGroot — AI-Powered Interactive Learning Platform](https://github.com/MITHELESH-45/EduGroot)
 
-> *A mission-driven, full-stack platform bridging the logistical gap between surplus food providers and communities in need.*
+> *A production-ready EdTech platform that transforms Electronics, IoT, and Programming education through virtual simulations, AI-assisted learning, coding environments, and personalized career guidance.*
 
-* 🧑‍🤝‍🧑 **Dynamic Architecture:** Designed a complex, role-based ecosystem tailored specifically for Donors, NGOs, and delivery Volunteers.
-* 🔄 **Lifecycle Tracking:** Built an end-to-end operational workflow to track donations from source to destination securely.
-* ☁️ **Cloud Integrations:** Seamlessly integrated Cloudinary for optimized media and asset management.
-* ⚙️ **Core Stack:** React, Node.js, Express, MongoDB, Cloudinary.
+**⚙️ Tech Stack:** React • TypeScript • Tailwind CSS • Framer Motion • Node.js • Express • MongoDB • OpenAI API • JWT • REST APIs
 
+* 🧪 **Virtual Learning Ecosystem:** Developed an interactive electronics and IoT simulation platform featuring breadboard simulation, Arduino & ESP32 logic, real-time circuit validation, sensors, and virtual laboratories.
+* 🤖 **AI-Powered Learning Assistant:** Integrated an intelligent tutor for concept explanations, programming support, personalized learning guidance, and AI-driven career recommendations.
+* 💻 **Hands-on Learning Platform:** Built an end-to-end ecosystem with no-code programming, coding assessments, progress tracking, authentication, and modular learning architecture for experiential education.
+* 🏆 **Award-Winning Innovation:** Secured **🥇 1st Prize at CMR HackFest** for developing an innovative AI-powered educational platform that bridges theoretical learning with practical experimentation.
+
+ 
+🌐 **Live Demo:** https://edtech-9wnc.onrender.com
 ---
 
 ## 📊 GitHub Analytics
